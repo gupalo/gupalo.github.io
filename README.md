@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Repositories
 
-You can use the [editor on GitHub](https://github.com/gupalo/gupalo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### PHP Libraries
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [gupalo/dateutils](https://github.com/gupalo/dateutils)
+- [gupalo/geoip](https://github.com/gupalo/geoip)
+- [gupalo/uidgenerator](https://github.com/gupalo/uidgenerator)
+- [gupalo/namecom-client](https://github.com/gupalo/namecom-client)
+- [gupalo/ru-phone-parser](https://github.com/gupalo/ru-phone-parser)
+- [gupalo/tsv](https://github.com/gupalo/tsv)
 
-### Markdown
+### Symfony Libraries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [gupalo/google-auth-bundle](https://github.com/gupalo/google-auth-bundle)
+- [gupalo/config-bundle](https://github.com/gupalo/config-bundle)
+- [gupalo/twigext](https://github.com/gupalo/twigext)
+- [gupalo/browser-notifier](https://github.com/gupalo/browser-notifier)
+- [gupalo/symfony-response-helpers](https://github.com/gupalo/symfony-response-helpers)
+- [gupalo/monolog-dbal-logger](https://github.com/gupalo/monolog-dbal-logger)
 
-```markdown
-Syntax highlighted code block
+### Docker Images
 
-# Header 1
-## Header 2
-### Header 3
+- [gupalo/nginx](https://github.com/gupalo/nginx)
+- [gupalo/php](https://github.com/gupalo/php)
+- [gupalo/docker-container-number](https://github.com/gupalo/docker-container-number)
 
-- Bulleted
-- List
+### Docker Images - Forks
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gupalo/gupalo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [gupalo/beanstalk_console](https://github.com/gupalo/beanstalk_console)
+- [gupalo/docker-munin-server](https://github.com/gupalo/docker-munin-server)
